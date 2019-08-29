@@ -1,2 +1,3 @@
-# hello-world
-Naveen Nirban Yadav
+#hello-world app
+Install python3.*
+run hello.py file
